@@ -33,5 +33,7 @@ Podemos definir idempotência ou idempotente os métodos que não sofrem altera�
 5) Cite alguns diferentes padrões de projetos de software:
 
 Abstract Factory; é um padrão de projeto que permite a crição de familias de objetos relacionados ou dependentes por meio de uma única interface e sem que a classe seja especificada.
+
 Factory Method; permite ás classes delegar para as subclasses decidirem, isso é feito através da criação de objetos que chama o método numa interface e implementa por uma classe "filha" ou abstrata.
+
 Singleton; garante que um objeto terá apenas uma única instância, isto é, que uma classeirá gerar apenas um objetoe que ele estará disponivel de forma única para todo o escopo da aplicação.
